@@ -1,4 +1,4 @@
 # python-programming-Farah-Adam
 
-This repository contains various Python exercises focused on basic mathematical concepts and machine learning fundamentals.
+This repository contains python exercises0 for labb1
 
